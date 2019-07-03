@@ -1,9 +1,9 @@
 # Alphanumeric Animation Utility
 Create custom animations for 14-segment alphanumeric displays plus the dot segment!
 
-![demo animation](https://github.com/GasparIsCoding/Alphanumeric_Animation_Utility/blob/gh-pages/animation_demo.gif)
+![demo animation](https://github.com/GasparIsCoding/Alphanumeric_Animation_Utility/blob/gh-pages/demo_images/animation_demo.gif)
 
-# [ACCESS THE UTILITY HERE](www.linkhere.com)
+# [ACCESS THE UTILITY HERE](https://gaspariscoding.github.io/alphanumeric_animation_utility)
 
 This code generates hex arrays based on your animations. Select and copy the arrays, and paste them on your IDE. Test your animation in the browser or play it in your display by writting a simple for-loop or by using delays!
 
@@ -14,7 +14,7 @@ This utility is meant to help you code Arduino sketches that use an alphanumeric
 **[Adafruit 0.54" Quad Alphanumeric FeatherWing Display with i2c backpack](https://learn.adafruit.com/14-segment-alpha-numeric-led-featherwing)**
 
 ## How to use this utility
-![demo of the interface](https://github.com/GasparIsCoding/Alphanumeric_Animation_Utility/blob/gh-pages/interface_demo.jpg)
+![demo of the interface](https://github.com/GasparIsCoding/Alphanumeric_Animation_Utility/blob/gh-pages/demo_images/interface_demo.jpg)
 
 - Start by choosing the LED's color. Choose 1 of 5 predefined colors or choose your favorite with the color picker. You can change the color at any time.
 - Start animating!
@@ -28,7 +28,7 @@ This utility is meant to help you code Arduino sketches that use an alphanumeric
 
 ### Have fun! If you use this utility, feel free to share your projects with me!
 
-Code written by [P. Gaspar](https://pedrogaspar.weebly.com/).
+Code written by [P. Gaspar](https://pedrogaspar.weebly.com/). 2019
 
 
 ### Ideas for future updates
