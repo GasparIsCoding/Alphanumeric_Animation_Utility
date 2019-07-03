@@ -3,7 +3,7 @@ Create custom animations for 14-segment alphanumeric displays plus the dot segme
 
 ![demo animation](https://github.com/GasparIsCoding/Alphanumeric_Animation_Utility/blob/gh-pages/demo_images/animation_demo.gif)
 
-# [ACCESS THE UTILITY HERE](https://gaspariscoding.github.io/alphanumeric_animation_utility)
+# [ACCESS THE UTILITY HERE](https://gaspariscoding.github.io/Alphanumeric_Animation_Utility/)
 
 This code generates hex arrays based on your animations. Select and copy the arrays, and paste them on your IDE. Test your animation in the browser or play it in your display by writting a simple for-loop or by using delays!
 
