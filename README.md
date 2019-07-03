@@ -23,7 +23,8 @@ This utility is meant to help you code Arduino sketches that use an alphanumeric
 - You can modify previous frames by pressing the **<<< Previous Frame** button.
 - Test your animation by pressing the **PLAY** or **STOP** buttons, and adjust the **playback speed slider**.
 - When you're done with your animation, select and copy the 4 arrays on bottom of the page. Paste them on your IDE - e.g., the Arduino IDE.
-- Finish your code on your IDE by writing a for-loop, or use delays to switch each frame of the animation.
+- Finish your code on your IDE by writing a for-loop, or use delays to switch each frame of the animation. You must use the Adafruit's libraries in order to use the writeDigitRaw() function. It should look something like this - alpha4.writeDigitRaw(0, digit_0[i]);
+
 - Check the Adafruit guide on [how to incorporate and use the necessary libraries in your sketch](https://learn.adafruit.com/adafruit-led-backpack/0-54-alphanumeric).
 
 ### Have fun! If you use this utility, feel free to share your projects with me!
